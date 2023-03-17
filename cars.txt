@@ -1,0 +1,28 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Volkswagen grey   SUV     GAS_ENGINE      9.4  600 4WD 85000
+Toyota     blue   SEDAN   ELECTRIC_MOTOR  9.3  490 2WD 60000  45
+Ford       black  SUV     GAS_ENGINE      9.1  620 4WD 50000
+Acura      grey   SUV     GAS_ENGINE      9.9  550 4WD 65000
+Volkswagen black  SEDAN   ELECTRIC_MOTOR  9.5  500 2WD 65000  35
+Hyundai    red    MINIVAN GAS_ENGINE      9.2  490 2WD 50000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  9.0  400 2WD 50000  35
+Buick      black  SUV     GAS_ENGINE      9.6  590 AWD 150000
+Honda      blue   SEDAN   ELECTRIC_MOTOR  8.9  350 2WD 50000  45
+Nissan     black  SEDAN   ELECTRIC_MOTOR  9.3  425 4WD 38000  40
+Honda      grey   SEDAN   GAS_ENGINE      6.4  100 4WD 65000
+Toyota     black  SUV     GAS_ENGINE      8.4  430 4WD 54000  
+Lincoln    black  SUV     GAS_ENGINE      8.7  600 4WD 55000
+Tesla      grey   SEDAN   ELECTRIC_MOTOR  9.5  450 2WD 75000  45
+Bentley    black  SEDAN   ELECTRIC_MOTOR  9.9  550 2WD 950000 40
+Ford       red    MINIVAN GAS_ENGINE      8.4  540 AWD 66000
+Ferrari    yellow SPORTS  GAS_ENGINE      9.0  400 2WD 550000 
+Buick      black  MINIVAN GAS_ENGINE      9.9  620 4WD 100000
+Ford       black  SEDAN   ELECTRIC_MOTOR  8.3  450 2WD 75000  30
